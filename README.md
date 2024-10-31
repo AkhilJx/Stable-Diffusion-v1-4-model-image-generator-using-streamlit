@@ -16,4 +16,14 @@ For more details, please refer: https://huggingface.co/CompVis/stable-diffusion-
 
 streamlit app was used to provide the application setup.
 
+# Pros:
+1. Open source (free of cost)
+2. unlimited Trials
+3. limited coding
+
+# Cons:
+1. Takes too much time to produce the results (depends on the system configuration)
+2. requires high-end system configuration with GPUs or TPUs to yield better performance and better results
+
+
 code: streamlit run main.py in the terminal. 
