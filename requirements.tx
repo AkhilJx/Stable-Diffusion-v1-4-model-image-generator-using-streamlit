@@ -1,9 +1,0 @@
-streamlit 1.39.0
-diffusers 0.31.0
-torch 2.5.0
-tokenizers-0.20.1
-transformers-4.46.0
-jax - 0.4.35
-flax 0.10.0
-accelerate-1.0.1
-psutil-6.1.0
